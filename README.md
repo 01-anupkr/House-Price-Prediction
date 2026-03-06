@@ -6,7 +6,7 @@
 **Project Type:** Data Preprocessing & Regression Modeling  
 **Source:** [Kaggle - House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anupkumar/House-Price-Prediction/blob/main/house_price_preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/01-anupkr/House-Price-Prediction/blob/main/house_price_preprocessing.ipynb)
 
 ---
 
@@ -147,7 +147,7 @@ The entire pipeline runs inside `house_price_preprocessing.ipynb` and follows th
 ## 🙋‍♂️ Author
 
 **Anup Kumar**  
-💻 [GitHub](https://github.com/anupkumar)  
+💻 [GitHub](https://github.com/01-anupkr)  
 
 ---
 
